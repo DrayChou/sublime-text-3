@@ -1,0 +1,48 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Align Arguments",
+		"Alignment",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"ConvertToUTF8",
+		"Cscope",
+		"CTags",
+		"DocBlockr",
+		"ExtendedTabSwitcher",
+		"FileDiffs",
+		"FileHeader",
+		"FindSelected",
+		"Function Name Display",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"jQuery",
+		"JSCS-Formatter",
+		"JsFormat",
+		"Markdown Extended",
+		"Monokai - Spacegray",
+		"Monokai Extended",
+		"OmniMarkupPreviewer",
+		"Package Control",
+		"phpfmt",
+		"PlainTasks",
+		"Project PHP ClassBrowser",
+		"Python 3",
+		"RailsCasts Colour Scheme",
+		"Railscasts Extended",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Dark Material",
+		"Theme - Monokai",
+		"Theme - Nexus",
+		"Themr",
+		"TrailingSpaces",
+		"Yii2 Snippets"
+	]
+}
