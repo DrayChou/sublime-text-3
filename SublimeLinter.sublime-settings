@@ -7,6 +7,16 @@
         "gutter_theme_excludes": [],
         "lint_mode": "save only",
         "linters": {
+            "htmltidy": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "jscs": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
             "php": {
                 "@disable": false,
                 "args": [],
