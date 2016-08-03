@@ -7,6 +7,7 @@
 	[
 		"Alignment",
 		"All Autocomplete",
+		"AngularJS",
 		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
@@ -16,6 +17,7 @@
 		"Cscope",
 		"CTags",
 		"DocBlockr",
+		"Expand Selection to Function (JavaScript)",
 		"ExtendedTabSwitcher",
 		"FileDiffs",
 		"FileHeader",
@@ -27,7 +29,8 @@
 		"HTMLBeautify",
 		"IMESupport",
 		"jQuery",
-		"JSCS-Formatter",
+		"JsFormat",
+		"JSLint",
 		"MarkdownEditing",
 		"OmniMarkupPreviewer",
 		"Package Control",
@@ -43,6 +46,7 @@
 		"SublimeLinter-jscs",
 		"SublimeLinter-php",
 		"Tag",
+		"Theme - Ksix",
 		"Themr",
 		"TrailingSpaces",
 		"Yii2 Snippets"

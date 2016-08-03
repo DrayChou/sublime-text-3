@@ -1,0 +1,7 @@
+{
+    // Line
+    "line_numbers": true,
+    "highlight_line": true,
+
+    "wrap_width": 160
+}
