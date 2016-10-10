@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"GitGutter"
 	],
 	"installed_packages":
 	[
@@ -28,7 +27,8 @@
 		"HTMLBeautify",
 		"IMESupport",
 		"jQuery",
-		"JSCS-Formatter",
+		"JSX",
+		"LESS",
 		"MarkdownEditing",
 		"OmniMarkupPreviewer",
 		"Package Control",
