@@ -7,7 +7,6 @@
 	[
 		"Alignment",
 		"All Autocomplete",
-		"AngularJS",
 		"AutoFileName",
 		"Autoprefixer",
 		"BracketHighlighter",
@@ -49,6 +48,7 @@
 		"Theme - Ksix",
 		"Themr",
 		"TrailingSpaces",
-		"Yii2 Snippets"
+		"Yii2 Snippets",
+		"YUI Compressor"
 	]
 }
