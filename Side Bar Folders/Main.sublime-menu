@@ -14,9 +14,9 @@
 			{ "command": "side_bar_folders_remove_current", "caption": "Remove Current Folder"},
 			{ "caption": "-" , "id": "history" },
 			{
-				"caption": "Load Folder",
+				"caption": "Append Folder",
 				"children": [
-					{ "command": "side_bar_folders_swap", "caption": "Use \"Load\" Folder List as Default "},
+					{ "command": "side_bar_folders_swap", "caption": "Use \"Append\" Folder List as Default "},
 					{ "caption": "-" },
 					// Folder history goes here
 					{ "command": "side_bar_folders_load", "args":{ "index": 0 }},

@@ -1,7 +1,8 @@
 /Package Control.cache
 /encoding_cache.json
-/Side Bar Folders.sublime-settings
 /Package Control.last-run
-/Package Control.merged-ca-bundle
 /Localization.sublime-settings
+/Package Control.merged-ca-bundle
 /Package Control.system-ca-bundle
+/Side Bar Folders.sublime-settings
+*.crt
