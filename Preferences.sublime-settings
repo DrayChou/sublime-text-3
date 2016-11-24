@@ -12,6 +12,8 @@
 	"ignored_packages":
 	[
 		"Markdown",
+		"SideBarFolders",
+		"Tag",
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
