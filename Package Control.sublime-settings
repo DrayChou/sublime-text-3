@@ -2,6 +2,8 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
+		"SideBarFolders",
+		"Tag"
 	],
 	"installed_packages":
 	[
@@ -48,6 +50,8 @@
 		"Theme - Ksix",
 		"Themr",
 		"TrailingSpaces",
+		"Vuejs Complete Package",
+		"Vuejs Snippets",
 		"Yii2 Snippets",
 		"YUI Compressor"
 	]
