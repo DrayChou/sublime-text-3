@@ -2,7 +2,7 @@
 	"format_on_save": false,
 	"indent_with_space": true,
 	"option": "value",
-	"php_bin": "D:\\wamp64\\bin\\php\\php7.0.0\\php.exe",
+	"php_bin": "php",
 	"psr1": false,
 	"psr2": true,
 	"version": 4

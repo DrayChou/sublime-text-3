@@ -11,7 +11,10 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"IMESupport",
 		"Markdown",
+		"SideBarFolders",
+		"Tag",
 		"Vintage"
 	],
 	"save_on_focus_lost": true,
